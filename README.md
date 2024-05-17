@@ -1,4 +1,4 @@
-# Mensajería Masiva a WhatsApp - Landing Page
+# ![Mensajeria](assets/img/favicon.png) Mensajería Masiva a WhatsApp - Landing Page
 
 Este proyecto consiste en una landing page para una plataforma de mensajería masiva a WhatsApp. Proporciona información sobre los servicios ofrecidos, características principales y precios.
 
